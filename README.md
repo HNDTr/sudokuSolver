@@ -1,4 +1,4 @@
-# gundamStore
+# SudokuSolver
 Sudoku Solver Program
 
 
